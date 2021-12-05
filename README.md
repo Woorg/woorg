@@ -1,4 +1,4 @@
-### Hi there, I'm Igor [website] 👋
+### Hi there, I'm Igor Gorlov [website] 👋
 
 [![Website](https://img.shields.io/website?label=igorlov.ru&style=for-the-badge&url=https%3A%2F%2Figorlov.ru)](https://igorlov.ru)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->

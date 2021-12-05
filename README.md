@@ -58,7 +58,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Igor Gorlov's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Woorg&show_icons=true&hide_border=true" />
+  [![Igor Gorlov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Woorg)]
 
 </details>
 

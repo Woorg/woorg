@@ -1,77 +1,72 @@
-### Hi there, I'm Igor Gorlov [website] 👋
+# Hi there! 👋
 
-[![Website](https://img.shields.io/website?label=igorlov.ru&style=for-the-badge&url=https%3A%2F%2Figorlov.ru)](https://igorlov.ru)
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+My name is Igor. I am freelance web developer ready push pixels for you.
 
-## Web Developer | WordPress/HTML/CSS/JS
+## About me
 
-- ⚡ Converting Figma, Sketch, Adobe XD, PSD designs to WordPress or HTML
-- ⚡ Create WordPress Theme from the HTML/CSS using Acf pro or Carbon fields, WooCommerce, Elementor
+- 🔭 I enjoy creating static websites and single-page applications with a focus on accessibility and speed
+- 🌱 I am currently learning Next.js and ways to improve my code
+- 📌 Next, I want to learn more about SSR and Edge Functions
+- 👯 I'm looking to collaborate on Javascript, Next.js and Astro projects with code or documentation
+- 🚲 In my free time I like to ride a bicycle
 
-## My stack of technologies:
+## Programming Languages, Tools and Frameworks
+- 🛠️ **Frontend**: HTML5, CSS3, Pug, Blade, Scss, Tailwind, Next.js, Astro, React.js
+- 🐙 **Build & DevOps**: Vite, Webpack, Gulp, Git, Docker 
+- 🧱 **Backend**: Strapi, Sanity, Laravel, WordPress, PHP, MySQL, GraphQL, Rest API 
 
-- ⚡ Php/WordPress
-- ⚡ Html/Pug/Blade
-- ⚡ Css/Scss/Stylus
-- ⚡ JavaScript/jQuery
-- ⚡ Git/Github/Bitbucket
-- ⚡ Webpack/Gulp
+[//]: # (## Featured Projects)
 
-### Connect with me:
+[//]: # ()
+[//]: # (- 🖼️ [Portfolio]&#40;https://igorlov.ru/&#41; - Displays my portfolio, written using Astro, Markdown and Strapi)
 
-[<img align="left" alt="igorlov.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Igor Gorlov | 'telegram'" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="Igor Gorlov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Igor Gorlov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[//]: # (- 🎬 [Oscar Nominees]&#40;https://nomeacoes-oscar.netlify.app/&#41; - Shows information about Oscar nominees using an Astro static website)
 
-<br />
+[//]: # (- 🏁 [F1 Next]&#40;https://f1next.netlify.app/&#41; - Displays the schedule for Formula 1 races using Nuxt)
 
-### Languages and Tools:
+[//]: # (- 🧬 [AlkaBlog]&#40;https://alkablog.netlify.app/&#41; &#40;Work in Progress&#41; - This project showcases how to implement data fetching, layout, routes, async components and virtual lists with Nuxt and Vue )
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+[//]: # (- 🏙️ [Luminares Arq]&#40;https://luminares-arq.netlify.app/&#41; - A website for a fictitious architecture company, built using Nuxt, VueJS, Typescript, and SASS)
 
----
+[//]: # (- 📚 [Bookshelf]&#40;https://ralacerda-books.netlify.app/&#41; - Displays the list of books I've read and recommend. The data comes from Contentful CMS and is built using NextJS)
 
-  <!-- <summary>:zap: Recent GitHub Activity</summary> -->
+[//]: # (- 🛜 [Team Connect]&#40;https://team-connect.netlify.app/&#41; - A satire website to showcase my skills in designing website for products)
 
-<!-- START_SECTION:activity -->
-<!-- 1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass) -->
-<!-- 2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass) -->
-<!-- 3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
-<!-- 4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
-<!-- 5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources) -->
-<!--END_SECTION:activity-->
+[//]: # (- 🎨 [Multiple Contrast Checker]&#40;https://multiple-contrast-checker.netlify.app/&#41; &#40;Work In Progress&#41; - Web App to test the contrast of multiple colors at the same time)
 
-<!-- </details> -->
+[//]: # ()
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  [![Igor Gorlov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Woorg)]
+[//]: # (## Open Source)
 
-</details>
+[//]: # ()
+[//]: # (- 🤝 Contributed code and documentation for [Astro]&#40;https://astro.build/&#41;, [Doom Emacs]&#40;https://github.com/doomemacs/doomemacs&#41;, and other projects)
 
-[website]: https://igorlov.ru
-[telegram]: https://t.me/igor_gorlov
+[//]: # (- 🎃 Participated in [Hacktoberfest]&#40;https://hacktoberfest.com/&#41; and contributed to open-source projects)
 
-<!-- [course]: http://vsCodeHero.com -->
-<!-- [twitter]: https://twitter.com/codeSTACKr -->
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
-[instagram]: https://instagram.com/igor__gorlov
-[linkedin]: https://linkedin.com/in/игорь-горлов-79a4bb36
-<!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
-<!-- [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B -->
-<!-- [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4 -->
-<!-- [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+[//]: # (- 📖 All my projects hosted on GitHub are open source, feel free to fork or contribute)
+
+[//]: # (- 🦬 Using GNU/Linux as my primary operating system for almost 10 years)
+
+[//]: # (## Goals)
+
+[//]: # ()
+[//]: # (- 👨‍💻 Start a career as a front-end developer)
+
+[//]: # (- 👨‍🎓 Continuously learn new things and share that knowledge with others)
+
+[//]: # (- 🌐 Develop accessible, fast, and helpful websites)
+
+[//]: # (- 🏗️ Contribute to and help maintain open-source and free software)
+
+[//]: # ([![@ralacerda Astro contributions]&#40;https://astro.badg.es/v1/contributor/ralacerda.svg&#41;]&#40;https://astro.badg.es/v1/contributor/ralacerda/&#41;)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woorg&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=wooorg&layout=compact&theme=dark)
+
+[![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=woorg&hide=stars&show_icons=true&theme=dark&hide_rank=true#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=woorg&hide=stars&show_icons=true&theme=dark&hide_rank=true)
+
+[![Github profile views](https://visitcount.itsvg.in/)]
+
+
+
+

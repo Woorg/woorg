@@ -66,7 +66,6 @@ My name is Igor. I am freelance web developer ready push pixels for you.
 
 [![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=woorg&hide=stars&show_icons=true&theme=dark&hide_rank=true#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=woorg&hide=stars&show_icons=true&theme=dark&hide_rank=true)
 
-[![Github profile views](https://visitcount.itsvg.in/)]
 
 
 

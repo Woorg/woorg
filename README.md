@@ -61,7 +61,7 @@ My name is Igor. I am freelance web developer ready push pixels for you.
 
 [//]: # ([![@ralacerda Astro contributions]&#40;https://astro.badg.es/v1/contributor/ralacerda.svg&#41;]&#40;https://astro.badg.es/v1/contributor/ralacerda/&#41;)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woorg&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=wooorg&layout=compact&theme=dark)
+[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=woorg&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=wooorg&layout=compact&theme=dark)
 
 [![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=woorg&hide=stars&show_icons=true&theme=dark&hide_rank=true#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api?username=woorg&hide=stars&show_icons=true&theme=dark&hide_rank=true)
 

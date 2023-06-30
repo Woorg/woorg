@@ -5,6 +5,7 @@ My name is Igor. I am freelance web developer ready push pixels for you.
 ## About me
 
 - 🔭 I enjoy creating static websites and single-page applications with a focus on accessibility and speed
+- 🤬 I don't do WordPress projects made with anything other than Sage by Roots and Acf Pro
 - 🌱 I am currently learning Next.js and ways to improve my code
 - 📌 Next, I want to learn more about SSR and Edge Functions
 - 👯 I'm looking to collaborate on Javascript, Next.js and Astro projects with code or documentation

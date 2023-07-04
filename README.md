@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Igor. I am freelance web developer ready push pixels for you.
+Hi, my name is Igor. I am a freelancer and do web development. Ready to help you with the creation and implementation of your ideas on the screen.
 
 ## About me
 

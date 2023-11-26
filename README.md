@@ -5,21 +5,19 @@ Hi, my name is Igor. I am a freelancer and do web development. Ready to help you
 ## About me
 
 - 🔭 I enjoy creating static websites and single-page applications with a focus on accessibility and speed
-- 🤬 I don't do WordPress projects made with anything other than Sage by Roots and Acf Pro
-- 🌱 I am currently learning Next.js and ways to improve my code
-- 📌 Next, I want to learn more about SSR and Edge Functions
+- 🌱 I am currently use Next.js, Astro.build
 - 👯 I'm looking to collaborate on Javascript, Next.js and Astro projects with code or documentation
 - 🚲 In my free time I like to ride a bicycle
 
 ## Programming Languages, Tools and Frameworks
 - 🛠️ **Frontend**: HTML5, CSS3, Pug, Blade, Scss, Tailwind, Next.js, Astro, React.js
 - 🐙 **Build & DevOps**: Vite, Webpack, Gulp, Git, Docker 
-- 🧱 **Backend**: Strapi, Sanity, Laravel, WordPress, PHP, MySQL, GraphQL, Rest API 
+- 🧱 **Backend**: Strapi, Sanity, MySQL, GraphQL, Rest API 
 
 [//]: # (## Featured Projects)
 
 [//]: # ()
-[//]: # (- 🖼️ [Portfolio]&#40;https://igorlov.ru/&#41; - Displays my portfolio, written using Astro, Markdown and Strapi)
+[//]: # (- 🖼️ [Portfolio]&#40;https://igorlov.ru/&#41; - Displays my portfolio, written using Astro, Markdown and Content collection)
 
 [//]: # (- 🎬 [Oscar Nominees]&#40;https://nomeacoes-oscar.netlify.app/&#41; - Shows information about Oscar nominees using an Astro static website)
 

@@ -10,7 +10,7 @@ Hi, my name is Igor. I am a freelancer and do web development. Ready to help you
 - 🚲 In my free time I like to ride a bicycle
 
 ## Programming Languages, Tools and Frameworks
-- 🛠️ **Frontend**: HTML5, CSS3, Pug, Blade, Scss, Tailwind, Next.js, Astro, React.js
+- 🛠️ **Frontend**: HTML5, CSS3, Pug, Blade, Scss, Tailwind, Postcss, Next.js, Astro, React.js
 - 🐙 **Build & DevOps**: Vite, Webpack, Gulp, Git, Docker 
 - 🧱 **Backend**: Strapi, Sanity, MySQL, GraphQL, Rest API 
 

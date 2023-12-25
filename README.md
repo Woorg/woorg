@@ -1,15 +1,14 @@
-## I am a Web Developer / Frontend Developer.
+As a frontend developer, I specialize in creating interfaces for web applications using cutting edge technologies and tools. For this, I use Next.js and Astro for optimal performance and quality user experience.
 
-## What I do:
-- ✔ Versioning / Frontend on Next.js / Astro.build
+- Frontend development:
+Next.js, Astro
+JavaScript, TypeScript
+CSS, Sass, Tailwind CSS, PostCSS
 
-### Secure transaction via https://gu.ru/baf/pFAjU0bQ or https://solarstaff.com/
+- For APIs I use:
+Strapi, Directus, TinaCMS, GraphQL, REST APIs
 
-Using technology:
-- ✔ Next.js/Astro.js/Laravel/Strapi/Sanity/MySQL/GraphQL/Rest APIs
-- ✔ Html/Pug/Blade
-- ✔ Css/Scss/Postcss/Tailwind
-- ✔ JavaScript/Typescript
-- ✔ Vite/Webpack/Gulp/Git/Docker
+- Build & DevOps:
+Vite, Webpack, Git, Docker
 
-## I have done more than 100 freelance projects!
+

@@ -2,12 +2,12 @@
 
 
 - Frontend development:
-Next.js, Astro
+Next.js,
 JavaScript, TypeScript
 CSS, Sass, Tailwind CSS, PostCSS
 
 - For APIs I use:
-Strapi, Directus, TinaCMS, GraphQL, REST APIs
+Strapi, Directus, GraphQL, REST APIs
 
 - Build & DevOps:
 Vite, Webpack, Git, Docker

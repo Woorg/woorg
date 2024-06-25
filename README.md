@@ -7,7 +7,7 @@ JavaScript, TypeScript
 CSS, Sass, Tailwind CSS, PostCSS
 
 - For APIs I use:
-Strapi, Directus, GraphQL, REST APIs
+Strapi, GraphQL, REST APIs
 
 - Build & DevOps:
 Vite, Webpack, Git, Docker

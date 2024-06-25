@@ -1,6 +1,3 @@
-
-
-
 - Frontend development:
 Next.js,
 JavaScript, TypeScript

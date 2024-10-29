@@ -1,5 +1,5 @@
 What I'm doing:
-- Layout from Figma to HTML
+- Frontend from Figma to HTML/React/Vue
 -  Creating WordPress/WooCommerce theme from Figma using Sage10, Acf pro
 
 Use technology:

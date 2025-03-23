@@ -5,7 +5,7 @@ What I'm doing:
 Use technology:
 - HTML, Pug, Blade,
 - Css/PostCss/Scss/Tailwind
-- JavaScript/TypeScript/Next.js/Vue.js
+- JavaScript/TypeScript/Next.js/Vue.js/Nuxt.js
 - Php/WordPress/Laravel
 - Docker/Coolify
-- Vite/Webpack/Gulp
+- Vite
